@@ -2,7 +2,7 @@
 
 [![English](https://img.shields.io/badge/English-Click-yellow)](README_en.md)
 [![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README_sc.md)
-[![繁體中文](https://img.shields.io/badge/繁體中文-点击查看-orange)](README_tc.md)
+[![繁體中文](https://img.shields.io/badge/繁體中文-點擊查看-orange)](README_tc.md)
 
 🎉 欢迎来到 GPT‑4o 图片精选！
 
