@@ -1,84 +1,84 @@
 # Awesome GPT-4o Images ✨
 
-## 案例 29：名畫人物 OOTD (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
-
-[原文鏈接](https://x.com/ZHO_ZHO_ZHO/status/1909892294217781714)
-
-<img src="./examples/example_pearl_earring_ootd.png" width="300" alt="名畫人物 OOTD">
-
-**提示詞：**
-```
-為圖片人物生成不同職業風的OOTD，時尚穿搭和配飾，和人物色系一致的純色背景，Q版 3d，c4d渲染，保持人臉特徵，姿勢都要保持一致，人物的比例腿很修長
-
-構圖：9:16
-頂部文字：OOTD，左側為人物ootd q版形象，右側為穿搭的單件展示
-
-先來第一個職業：時尚設計師
-```
-**需上傳參考圖片：** [《戴珍珠耳環的少女》圖片](./references/Meisje_met_de_parel.jpg)。
-
-## 案例 30：35mm 膠片風格飛島 (by [@dotey](https://x.com/dotey))
-
-[原文鏈接](https://x.com/dotey/status/1905020833451348283)
+[![English](https://img.shields.io/badge/English-Click-yellow)](README_en.md)
+[![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README_sc.md)
+[![繁體中文](https://img.shields.io/badge/繁體中文-點擊查看-orange)](README_tc.md)
 
 
-<img src="./examples/example_35mm_moscow_flying_island.jpeg" width="300" alt="35mm 膠片風格飛島">
 
-**提示詞：**
-```
-35 mm photo of Moscow floating in the sky on a flying islands
-```
+🎉 歡迎來到 GPT‑4o 圖片精選！
 
-## 案例 31：動漫貼紙集合 (by [@richardchang](https://x.com/richardchang))
+這裡收集了 OpenAI 最新多模態模型 GPT‑4o 生成的精彩案例，展示其強大的文本‑圖像理解與創作能力。
 
-[原文鏈接](https://x.com/richardchang/status/1909086122959139312)
+GPT‑4o 六大亮點
+- 🧠 跨模態理解：同時解析文本、圖像、音頻，精准把握創作意圖
+- ✍️ 精准出圖：支持複雜提示詞，快速生成高質量圖像
+- 🎨 多樣風格：吉卜力、厚塗、像素、3D 毛絨等任你選
+- 🖼️ 真實構圖：空間、透視、光影自然可信
+- ✏️ 易於再編輯：替換背景、改細節，二次創作無壓力
+- ⚡️ 極速交互：響應更快，適合實時創意迭代
 
-<img src="./examples/example_naruto_stickers.jpeg" width="300" alt="動漫貼紙集合">
+案例主要來源於 Twitter/X 🐦，希望這些案例能為您帶來啓發 💡，為你的靈感加速 🚀。
+
+
+---
+
+
+
+[原文鏈接](https://x.com/dotey/status/1911609122547449886)
+
+<img src="./examples/example_miniature_journey_west.jpeg" width="300" alt="Q版孫悟空三打白骨精微型立體場景，移軸攝影風格">
 
 **提示詞：**
 ```
-Naruto stickers
+微型立體場景呈現，運用移軸攝影的技法，呈現出Q版【孫悟空三打白骨精】場景
 ```
 
-## 案例 32：紙藝剪貼風格招聘廣告 (by [@dotey](https://x.com/dotey))
+*注意：提示詞中括號內的【孫悟空三打白骨精】可以替換為其他中文場景，如“孫悟空大鬧天宮”、“哪吒鬧海”、“武松打虎”、“黛玉葬花”、“孫悟空三打白骨精”、“關雲長過五關斬六將”等。*
 
-[原文鏈接](https://x.com/dotey/status/1905021792642564406)
 
-<img src="./examples/example_paper_cutout_job_ad.jpeg" width="300" alt="紙藝剪貼風格招聘廣告">
+## 案例 42：3D Q版情侶水晶球 (by [@balconychy](https://x.com/balconychy))
+
+[原文鏈接](https://x.com/balconychy/status/1909908568129655248)
+
+<img src="./examples/example_3d_q_snowglobe_couple.jpeg" width="300" alt="3D Q版情侶水晶球">
 
 **提示詞：**
 ```
-The image shows professional drivers of cars and trucks at work, impressive urban and rural speeds, a positive team environment and modern visuals of the fleet - all this advertises a vacancy for drivers with competitive pay, flexible working hours and a clear call to institutions: "Apply today - we will start tomorrow!"
+將附圖中的人物轉換成水晶球場景。 整體環境：水晶球放在窗戶旁桌面上，背景模糊，暖色調。陽光透過球體，灑下點點金光，照亮了周圍的黑暗。 水晶球內部：人物是可愛Q版3D造型，相互之間滿眼的愛意。
 ```
+**需上傳參考圖片：** 一張情侶照片 或 一張其他人物照片。
 
-## 案例 33：全家福婚紗照 (by [@balconychy](https://x.com/balconychy))
+## 案例 43：Q版可愛俄羅斯套娃 (戴珍珠耳環的少女) (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
-[原文鏈接](https://x.com/balconychy/status/1909426314643222595)
+[原文鏈接](https://x.com/ZHO_ZHO_ZHO/status/1911669883315818497)
 
-<img src="./examples/example_family_wedding_photo_q.jpeg" width="300" alt="全家福婚紗照">
+<img src="./examples/example_matryoshka_pearl_earring.png" width="300" alt="Q版戴珍珠耳環的少女俄羅斯套娃">
 
 **提示詞：**
 ```
-將照片里的轉換成Q版 3D人物，父母婚禮服飾，孩子是美麗的花童。 父母，西式婚禮服飾，父親禮服，母親婚紗。孩子手捧鮮花。 背景是五彩鮮花做的拱門。 除了人物是3D Q版，環境其他都是寫實。 整體放在一個相框里。
+把圖片人物生成變成 Q 版可愛俄羅斯套娃🪆，大到小一共五個，放在精緻的木桌上，橫幅4:3比例
 ```
+*注意：對原提示詞的比例描述稍作修改。原始提示詞見原文鏈接。*
 
-**需上傳參考圖片：** 一張家庭照片。
+**需上傳參考圖片：** 需要上傳一張人物圖片作為轉換對象 (原文使用了[《戴珍珠耳環的少女》](./references/Meisje_met_de_parel.jpg))。
 
+---
 
-## 案例 34：手繪信息圖卡片 (by [@dotey](https://x.com/dotey))
+## 🙏 致謝
 
-[原文鏈接](https://x.com/dotey/status/1907903480678985784)
+本案例集的內容很大程度上依賴於 AI 社區在 Twitter/X 上分享的創意提示詞和精彩視覺效果。我們向所有案例的貢獻者表示誠摯的感謝。😊
 
-<img src="./examples/example_hand_drawn_infographic_cognition.jpeg" width="300" alt="手繪信息圖卡片">
+特別感謝以下用戶分享了他們鼓舞人心的作品 ✨：
 
-**提示詞：**
-```
-創作一張手繪風格的信息圖卡片，比例為9:16竪版。卡片主題鮮明，背景為帶有紙質肌理的米色或米白色，整體設計體現質樸、親切的手繪美感。
-
-卡片上方以紅黑相間、對比鮮明的大號毛筆草書字體突出標題，吸引視覺焦點。文字內容均採用中文草書，整體佈局分為2至4個清晰的小節，每節以簡短、精煉的中文短語表達核心要點。字體保持草書流暢的韻律感，既清晰可讀又富有藝術氣息。
-
-卡片中點綴簡單、有趣的手繪插畫或圖標，例如人物或象徵符號，以增強視覺吸引力，引發讀者思考與共鳴。
-整體佈局注意視覺平衡，預留足夠的空白空間，確保畫面簡潔明瞭，易於閱讀和理解。
-
+* [-Zho- (@ZHO_ZHO_ZHO)](https://x.com/ZHO_ZHO_ZHO)
+* [Gizem Akdag (@gizakdag)](https://x.com/gizakdag)
+* [寶玉 (@dotey)](https://x.com/dotey)
+* [balconychy(貝殼里奇) (@balconychy)](https://x.com/balconychy)
+* [Daniel (@0xdlk)](https://x.com/0xdlk)
+* [RichChat (@richardchang)](https://x.com/richardchang)
+* [歸藏(guizang.ai) (@op7418)](https://x.com/op7418)
+* [katon (@hellokaton)](https://x.com/hellokaton)
+* 以及其他可能通過轉推或間接分享而被收錄其提示詞的創作者們。
 
 如果您的作品被收錄在此，而您希望更改署名或將其移除，請隨時與我們聯繫。✉️
